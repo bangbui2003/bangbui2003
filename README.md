@@ -56,7 +56,6 @@ Dynamic pricing system with rule-based evaluation and serverless architecture
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bangbui2003&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bangbui2003&theme=tokyonight&hide_border=true" />
 </p>
 
